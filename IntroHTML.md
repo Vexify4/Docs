@@ -22,4 +22,21 @@ First you need a HTML editor I recommend Visual Studio Code but you can choose n
 <br>
 `<!DOCTYPE html>`
 <br>
-This is telling the web browser what type of file it is
+This is telling the web browser what type of file it is. We now need to start our file with the opening being
+<br>
+`<html>`
+<br>
+Then add
+<br>
+`<head>`
+<br>
+and finally add
+<br>
+`<body>`
+<br>
+together it should look like
+<br>
+`<html>
+ <head>
+ <body>`
+
