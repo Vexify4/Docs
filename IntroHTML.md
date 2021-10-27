@@ -39,5 +39,4 @@ together it should look like
 `<html>
  <head>
  <body>
- `
 
