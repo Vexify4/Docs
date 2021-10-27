@@ -51,6 +51,7 @@ There are 7 different text sizes from 1 to 6 so h1 h2 and so on and p which stan
 Now your website will look like this and now you have made your first website
 <br>
 ![Hello World](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%202021-10-26%20204551.png)
+<br>
 
 
 
