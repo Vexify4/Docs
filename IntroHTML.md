@@ -40,7 +40,6 @@ together it should look like
 <html>
  <head></head>
   <body></body>
-
 ```
 <br>
 Make sure that you add </ to the end to close that line of code. Now we need to give our html file some text so in the body section you want to write
