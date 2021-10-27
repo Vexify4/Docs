@@ -45,7 +45,6 @@ together it should look like
 Make sure that you add to the end to close that line of code. Now we need to give our html file some text so in the body section you want to write
 <br>
 `<h1>ENTER YOUR TEXT HERE</h1>`
-
 <br>
 Between the two arrows you will write your text
 There are 7 different text sizes from 1 to 6 so h1 h2 and so on and p which stands for paragraph.
