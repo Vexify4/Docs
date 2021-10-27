@@ -42,7 +42,7 @@ together it should look like
   <body></body>
 ```
 <br>
-Make sure that you add </ to the end to close that line of code. Now we need to give our html file some text so in the body section you want to write
+Make sure that you add to the end to close that line of code. Now we need to give our html file some text so in the body section you want to write
 <br>
 ```
 <h1>ENTER YOUR TEXT HERE</>h1>
