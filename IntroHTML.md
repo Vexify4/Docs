@@ -32,14 +32,24 @@ Then add
 <br>
 and finally add
 <br>
-`<body>`
+`<body></body>`
 <br>
 together it should look like
 <br>
 ```
 <html>
- <head>
-  <body>
+ <head></head>
+  <body></body>
 
 ```
+<br>
+Make sure that you add </ to the end to close that line of code. Now we need to give our html file some text so in the body section you want to write
+<br>
+`<h1>ENTER YOUR TEXT HERE</>h1>`
+Between the two arrows you will write your text
+There are 7 different text sizes from 1 to 6 so h1 h2 and so on and p which stands for paragraph.
+Now your website will look like this and now you have made your first website
+![Hello World](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%202021-10-26%20204551.png)
+
+
 
