@@ -38,8 +38,8 @@ together it should look like
 <br>
 ```
 <html>
-<head>
-<body>
+ <head>
+  <body>
 
 ```
 
