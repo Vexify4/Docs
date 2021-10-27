@@ -12,8 +12,8 @@ Click the new drop down should look like this
 Finally click the folder button and click it
 ![New Folder](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%202021-10-26%20201216.png)
 Yay, you have now made your folder this will store all of your files for your website.
-<br>
 Now do the same thing but click create new text document make sure you have file name extentions click like this
 <br>
 ![New File](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%202021-10-26%20201954.png)
+Once you make the file make sure it has .html get rid of the .txt. Congrats you have now made a html file get use to this name because I am going to use it a lot
 
