@@ -7,7 +7,7 @@ First create a folder anywhere on your hard drive, I would recommend in your doc
 <br>
 Click the new drop down should look like this 
 <br>
-![New Folder](https://github.com/Vexify4/Docs/raw/main/images/Screenshot 2021-10-26 200944.png)
+![New Folder](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%2021-10-26%200944.png)
 <br>
 Finally click the folder button and click it
 ![New Folder](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%202021-10-26%20201216.png)
