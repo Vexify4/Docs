@@ -16,5 +16,10 @@ Now do the same thing but click create new text document make sure you have file
 <br>
 ![New File](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%202021-10-26%20201954.png)
 <br>
-Once you make the file make sure it has .html get rid of the .txt. Congrats you have now made a html file get use to this name because I am going to use it a lot
-
+Once you make the file make sure it has .html get rid of the .txt. Congrats you have now made a HTML file get use to this name because I am going to use it a lot
+# Editing The File
+First you need a HTML editor I recommend Visual Studio Code but you can choose now that you have found your text editor you need to open the file. Once you have done that the first thing you are going to type is
+<br>
+`<!DOCTYPE html>`
+<br>
+This is telling the web browser what type of file it is
