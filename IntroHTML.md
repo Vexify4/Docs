@@ -52,6 +52,8 @@ Now your website will look like this and now you have made your first website
 <br>
 ![Hello World](https://github.com/Vexify4/Docs/raw/main/images/Screenshot%202021-10-26%20204551.png)
 <br>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=617a05032c621500122dddfc&product=inline-follow-buttons" async="async"></script>
+<div class="sharethis-inline-reaction-buttons"></div>
 
 
 
